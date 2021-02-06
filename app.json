@@ -1,0 +1,13 @@
+{
+    "name": "H-O-O-H",
+    "description": "Deploy on Heroku.",
+    "keywords": ["VLESS"],
+    "env": {
+        "ID": {
+            "description": "<UUID>",
+            "value": "<--Enter your UUID!-->"
+        }
+    },
+    "repository": "H-O-O-H",
+    "stack": "container"
+}
